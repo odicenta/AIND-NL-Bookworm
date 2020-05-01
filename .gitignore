@@ -1,3 +1,6 @@
 
 .ipynb_checkpoints/bookworm-checkpoint.ipynb
 *.pyc
+.vscode/settings.json
+.ipynb_checkpoints/helper-checkpoint.py
+.ipynb_checkpoints/service-credentials-checkpoint.json
